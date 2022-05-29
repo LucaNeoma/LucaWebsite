@@ -1,2 +1,2 @@
-Sitemap: https://luca-bianco-digital-manager.netlify.app/sitemap_location.xml
-http://www.google.com/ping?sitemap=https://luca-bianco-digital-manager.netlify.app/sitemap_location.xml
+Sitemap: https://luca-bianco.netlify.app/sitemap_location.xml
+http://www.google.com/ping?sitemap=https://luca-bianco.netlify.app/sitemap_location.xml
